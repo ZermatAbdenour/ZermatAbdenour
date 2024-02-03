@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm abdenour</h1>
 
 # 💫 About Me:
-- 🎮 a computer graphics and game developer<br>
+- 🎮 A computer graphics and game developer<br>
 - 🔭 I’m currently working on **DashEngine**<br>
-- 📫 reach me on **a_zermat@estin.dz**
+- 📫 You can reach me on a_zermat@estin.dz.
 
 
 # 💻 Tech Stack:
