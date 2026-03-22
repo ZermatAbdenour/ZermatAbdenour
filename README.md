@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - 🎮 A computer graphics and game developer<br>
-- 🔭 I’m currently working on **Aether Renderer**<br>
+- 🔭 I’m currently working on **RTSGS SLAM**<br>
 - 📫 You can reach me on a_zermat@estin.dz.
 
 
